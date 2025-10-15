@@ -1,0 +1,19 @@
+🎨 Project: “CSS Card Flip Grid” 🃏
+
+💡 Goals:
+
+Make a grid of cards.
+
+Each card flips on hover to show a message or fun fact.
+
+Use CSS transitions, transforms, and flexbox.
+
+Make it colourful and playful — maybe gradients, shadows, or rounded corners.
+
+🔥 Tips while doing it:
+
+Think about hover effects — scale, rotate, shadow.
+
+Experiment with different background colors and fonts to make it pop.
+
+Try to center the grid and make it responsive for small screens.
